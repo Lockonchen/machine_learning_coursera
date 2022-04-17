@@ -1,2 +1,2 @@
 # machine_learning_coursera
-The assignments of Machine Learning course offered by Stanford 
+The assignments of Machine Learning course offered by Stanford on Coursera 
