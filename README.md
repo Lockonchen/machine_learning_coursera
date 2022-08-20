@@ -1,2 +1,2 @@
-# machine_learning_coursera
-The assignments of Machine Learning course offered by Stanford on Coursera 
+# Machine Learning(Coursera)
+The assignments of Machine Learning course offered by Prof. Andrea Ng in Coursera 
